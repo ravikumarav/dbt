@@ -56,7 +56,7 @@ setup(
         "mashumaro[msgpack]==3.6",
         "minimal-snowplow-tracker==0.0.2",
         "networkx>=2.3,<2.8.1;python_version<'3.8'",
-        "networkx>=2.3,<3;python_version>='3.8'",
+        "networkx>=2.3,<4;python_version>='3.8'",
         "packaging>20.9",
         "sqlparse>=0.2.3,<0.4.4",
         "dbt-extractor~=0.4.1",
